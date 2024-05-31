@@ -1,51 +1,55 @@
-# Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
-
-## 🚀 Introdução
-
-> Woooow! Look at this 👀
-
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
-
-## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
-
-### Objetivos
-
-1. **Explorar IAs Generativas**: Utilize essas tecnologias para criar conteúdos que sejam o mais realista possível. Seja criativo! Você pode produzir imagens, textos, áudios, vídeos ou combinações de tudo isso!
-1. **Potfólio de Projetos**:
-    1. Faça o "fork" deste repositório, criando uma cópia em seu GitHub pessoal;
-    2. Edite seu README com os detalhes do seu projeto, siga nosso [Template](#template) (é só copiar, colar e preencher);
-    3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
-1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
-
-### Template
-
-```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# Utilizando AI 🤖 para criação de slides 
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Apresentar, brevemente, uma aplicação das Inteligências Artificiais Generativas, as quais podem ser empregadas para simplificar a criação de slides destinados a aulas e apresentações.
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+- IA Generativa **[ChatGPT](https://chat.openai.com)** para roteirização da apresentação e geração de código [VBA](https://en.wikipedia.org/wiki/Visual_Basic_for_Applications);
+
+- **[Microsoft PowerPoint](https://www.microsoft.com/en-us/microsoft-365/powerpoint?ocid=ORSEARCH_Bing)** para criação dos slide;
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+ > Step 1 - Abra o **[ChatGPT](https://chat.openai.com)** e escreva o seguinte *prompt*; 
+ 
+  - Prompt: Você é um(a) [função de especialista]. Escreva um esboço para uma apresentação em PowerPoint (Nº de slides) sobre [seu tópico]. Concentre-se nos benefícios de [seu tema].
+
+  - O output pode ser visto [aqui](docs\chatgpt_prompt_output.pdf).
+
+ > Step 2 - Gere um código VBA para PowerPoint;
+
+  - Prompt: Agora escreva todo o código VBA para criar os slides do PowerPoint para esta apresentação. O texto deve ser centralizado nos slides e alinhado à esquerda.
+
+  - O output pode ser visto [aqui](docs\vba_code.pdf).
+
+ > Step 3 - Crie os slides no PowerPoint;
+
+ - Abra o PowerPoint;
+
+  - Clique Alt + F11 no Windows (ou Option + F11 no Mac);
+ 
+ - Click *Insert* e selecione *Module*;
+
+ - Copie o cole o código VBA e aperte o botão *Play* (▶️)
+
+![](img\image_vba_ppt.png)
+
+ ❗❗❗**PRONTO SEUS SLIDES SERÃO GERADOS AUTOMATICAMENTE❗❗❗**
+
+![](img\slides_gerados.png)
+
+ > Step 4 - Customize;
+
+ - As versões mais recentes do Microsoft PowerPoint disponibiliza um recurso chamado de **Designer** que sugere customizações para os slides. Este recurso customiza seus slides em alguns clicks.
+
+![](img\designer_ppt.png)
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+Como observado, o uso de AI generativa pode auxiliar na criação de slides que podem ser utilizados em qualquer apresentação.
 
-## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
+Esse recurso proporcionado pelas IA reduz drasticamente o tempo gasto na preparação de slides desde a roteirização até a formatação dos slides, possibilitando uma produção mais rápida e eficiente de apresentações de alta qualidade.
 
-### Exemplos e Insigths
+Apesar da eficiência deste recurso, é importante destacar que o conteúdo deve ser revisado cuidadosamente pelo responsável da criação, pois conteúdo altamente técnicos e especializados podem não ser adequadamente desenvolvidos por AI.
 
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
+#
 
-## Links Interessantes
-
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
-
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
+👨‍💻 Feito por Saulo Gil.
