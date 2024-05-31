@@ -19,7 +19,7 @@ Apresentar, brevemente, uma aplicação das Inteligências Artificiais Generativ
 
   - Prompt: Agora escreva todo o código VBA para criar os slides do PowerPoint para esta apresentação. O texto deve ser centralizado nos slides e alinhado à esquerda.
 
-  - O output pode ser visto [aqui](docs\vba_code.pdf).
+  - O output pode ser visto [aqui](docs/vba_code.pdf).
 
  > Step 3 - Crie os slides no PowerPoint;
 
@@ -31,17 +31,17 @@ Apresentar, brevemente, uma aplicação das Inteligências Artificiais Generativ
 
  - Copie o cole o código VBA e aperte o botão *Play* (▶️)
 
-![](img\image_vba_ppt.png)
+![](img/image_vba_ppt.png)
 
  ❗❗❗**PRONTO SEUS SLIDES SERÃO GERADOS AUTOMATICAMENTE❗❗❗**
 
-![](img\slides_gerados.png)
+![](img/slides_gerados.png)
 
  > Step 4 - Customize;
 
  - As versões mais recentes do Microsoft PowerPoint disponibiliza um recurso chamado de **Designer** que sugere customizações para os slides. Este recurso customiza seus slides em alguns clicks.
 
-![](img\designer_ppt.png)
+![](img/designer_ppt.png)
 
 ## 🚀 Resultados
 Como observado, o uso de AI generativa pode auxiliar na criação de slides que podem ser utilizados em qualquer apresentação.
