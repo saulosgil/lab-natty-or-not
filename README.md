@@ -13,7 +13,7 @@ Apresentar, brevemente, uma aplicação das Inteligências Artificiais Generativ
  
   - Prompt: Você é um(a) [função de especialista]. Escreva um esboço para uma apresentação em PowerPoint (Nº de slides) sobre [seu tópico]. Concentre-se nos benefícios de [seu tema].
 
-  - O output pode ser visto [aqui]([docs\chatgpt_prompt_output.pdf](https://github.com/saulosgil/lab-natty-or-not/blob/main/docs/chatgpt_prompt_output.pdf)).
+  - O output pode ser visto [aqui](docs/chatgpt_prompt_output.pdf).
 
  > Step 2 - Gere um código VBA para PowerPoint;
 
